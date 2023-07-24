@@ -10,11 +10,10 @@ public class Animal {
     public Animal() {
     }
 
-    public Animal(int id, String name, String health, String age) {
+    public Animal(int id, String name) {
         this.id = id;
         this.name = name;
-        this.health = health;
-        this.age = age;
+
     }
 
     // Getters and Setters
@@ -34,19 +33,4 @@ public class Animal {
         this.name = name;
     }
 
-    public String getHealth() {
-        return health;
-    }
-
-    public void setHealth(String health) {
-        this.health = health;
-    }
-
-    public String getAge() {
-        return age;
-    }
-
-    public void setAge(String age) {
-        this.age = age;
-    }
 }
