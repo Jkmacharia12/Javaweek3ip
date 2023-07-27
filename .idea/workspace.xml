@@ -5,22 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="022572aa-05a2-4105-a7f2-ec994a988d97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sighting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/VelocityTemplateEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Templates/animal-form.vtl.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Templates/animal.vtl.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Templates/animals.vtl.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Templates/endangered_animal.vtl.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Templates/error.vtl.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Templates/index.vtl.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AnimalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/EndangeredAnimalTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Public/Images/addAnimal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Public/Images/animals.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Public/Images/details.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Public/Images/duck.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Public/Images/emptyAnimals.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Public/Images/fox.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Public/Images/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Public/Images/owl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Public/Images/postSightings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Public/Images/trail.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mash/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mash/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mash/EndangeredAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mash/EndangeredAnimal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,12 +53,19 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/jkmacharia/Desktop/ForestwildlifeTrackingAPP/src/main/resources/Public/Images",
     "onboarding.tips.debug.path": "C:/Users/jkmacharia/Desktop/ForestwildlifeTrackingAPP/src/main/java/com/mash/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jkmacharia\Desktop\ForestwildlifeTrackingAPP\src\main\resources\Public\Images" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
